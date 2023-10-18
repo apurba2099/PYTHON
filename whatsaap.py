@@ -3,6 +3,6 @@ import time
 time.sleep(5)
 count=0
 while count<=25:
-    pyautogui.typewrite("Sorry...love you..kal berobo...")
+    pyautogui.typewrite("hello")
     pyautogui.press("enter")
     count=count+1
